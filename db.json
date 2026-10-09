@@ -1,0 +1,327 @@
+{
+   "menu":[
+  
+    {"id":1, "name":"women", "link":"#","dropdown":[
+      {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"Hyrox","link":"#"},
+      {"id":7 , "title":"Running Shoe Finder","link":"#"},
+      {"id":8 , "title":"Shop All Women's","link":"#"},
+       {"id":9 , "title":"shoes","link":"#"},
+       {"id":10 , "title":"Speedcat","link":"#"},
+       {"id":11 , "title":"Lifestyle","link":"#"},
+       {"id":12 , "title":"Suede","link":"#"},
+       {"id":13 , "title":"White Shoes","link":"#"},
+       {"id":14 , "title":"Platform","link":"#"},
+       {"id":15 , "title":"Ballerinas","link":"#"},
+        {"id":16 , "title":"clothing","link":"#"},
+        {"id":17 , "title":"T-Shirts & Tops","link":"#"},
+        {"id":18 , "title":"Pants","link":"#"},
+        {"id":19 , "title":"Dresses & Skirts","link":"#"},
+        {"id":20 , "title":"Matching Sets","link":"#"},
+        {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Accessories","link":"#"},
+         {"id":23 , "title":"Bags & Backpacks","link":"#"},
+         {"id":24 , "title":"Hats & Beanies","link":"#"},
+         {"id":25 , "title":"Sports Equipment","link":"#"}
+         ]  },
+    {"id":2, "name":"men", "link":"#","dropdown":[
+      {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"Hyrox","link":"#"},
+      {"id":7 , "title":"Running Shoe Finder","link":"#"},
+      {"id":8 , "title":"Shop All Women's","link":"#"},
+       {"id":9 , "title":"shoes","link":"#"},
+       {"id":10 , "title":"Speedcat","link":"#"},
+       {"id":11 , "title":"Lifestyle","link":"#"},
+       {"id":12 , "title":"Suede","link":"#"},
+       {"id":13 , "title":"White Shoes","link":"#"},
+       {"id":14 , "title":"Platform","link":"#"},
+       {"id":15 , "title":"Ballerinas","link":"#"},
+        {"id":16 , "title":"clothing","link":"#"},
+        {"id":17 , "title":"T-Shirts & Tops","link":"#"},
+        {"id":18 , "title":"Pants","link":"#"},
+        {"id":19 , "title":"Dresses & Skirts","link":"#"},
+        {"id":20 , "title":"Matching Sets","link":"#"},
+        {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Accessories","link":"#"},
+         {"id":23 , "title":"Bags & Backpacks","link":"#"},
+         {"id":24 , "title":"Hats & Beanies","link":"#"},
+         {"id":25 , "title":"Sports Equipment","link":"#"}
+    ]   },
+    {"id":3, "name":"kids", "link":"#","dropdown":[
+      {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"mini me styles","link":"#"},
+      {"id":7 , "title":"paw patrol","link":"#"},
+      {"id":8 , "title":"Shop All kids","link":"#"},
+        {"id":9 , "title":"shoes","link":"#"},
+       {"id":10 , "title":"Babies & Toddlers (Size 4 - 10)","link":"#"},
+       {"id":11 , "title":"Little Kids (Size 10.5 - 3.5)","link":"#"},
+       {"id":12 , "title":"Big Kids (Size 4 - 7)","link":"#"},
+       {"id":13 , "title":"Easy On & Off Shoes","link":"#"},
+        {"id":14 , "title":"","link":"#"},
+         {"id":15 , "title":"","link":"#"},
+         {"id":16 , "title":"clothing","link":"#"},
+         {"id":17 , "title":"Hoodies & Sweatshirts","link":"#"},
+         {"id":18 , "title":"Pants","link":"#"},
+         {"id":19 , "title":"Dresses & Skirts","link":"#"},
+         {"id":20 , "title":"Matching Sets","link":"#"},
+         {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Accessories","link":"#"},
+         {"id":23 , "title":"Bags & Backpacks","link":"#"},
+         {"id":24 , "title":"Hats & Beanies","link":"#"},
+         {"id":25 , "title":"all accessories","link":"#"}
+    ]  },
+    {"id":4, "name":"lifestyle", "link":"#","dropdown":[
+       {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"styles","link":"#"},
+      {"id":7 , "title":"NYC","link":"#"},
+      {"id":8 , "title":"LAS VEGAS","link":"#"},
+      {"id":9 , "title":"shoes","link":"#"},
+       {"id":10 , "title":"Speedcat","link":"#"},
+       {"id":11 , "title":"Lifestyle","link":"#"},
+       {"id":12 , "title":"Suede","link":"#"},
+       {"id":13 , "title":"White Shoes","link":"#"},
+       {"id":14 , "title":"Platform","link":"#"},
+       {"id":15 , "title":"Ballerinas","link":"#"},
+        {"id":16 , "title":"clothing","link":"#"},
+        {"id":17 , "title":"T-Shirts & Tops","link":"#"},
+        {"id":18 , "title":"Pants","link":"#"},
+        {"id":19 , "title":"Dresses & Skirts","link":"#"},
+        {"id":20 , "title":"Matching Sets","link":"#"},
+        {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Accessories","link":"#"},
+         {"id":23 , "title":"Bags & Backpacks","link":"#"},
+         {"id":24 , "title":"Hats & Beanies","link":"#"},
+         {"id":25 , "title":"Sports Equipment","link":"#"}
+    ]},
+    {"id":5, "name":"sport", "link":"#","dropdown":[
+       {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"styles","link":"#"},
+      {"id":7 , "title":"NYC","link":"#"},
+      {"id":8 , "title":"LAS VEGAS","link":"#"},
+      {"id":9 , "title":"soccer","link":"#"},
+       {"id":10 , "title":"soccer shoes","link":"#"},
+       {"id":11 , "title":"soccer clothing","link":"#"},
+       {"id":12 , "title":"Suede","link":"#"},
+       {"id":13 , "title":"White Shoes","link":"#"},
+       {"id":14 , "title":"Platform","link":"#"},
+       {"id":15 , "title":"Ballerinas","link":"#"},
+        {"id":16 , "title":"Running","link":"#"},
+        {"id":17 , "title":"running shoes","link":"#"},
+        {"id":18 , "title":"running clothing","link":"#"},
+        {"id":19 , "title":"running accessories","link":"#"},
+        {"id":20 , "title":"Matching Sets","link":"#"},
+        {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Basketball","link":"#"},
+         {"id":23 , "title":"basketball shoes","link":"#"},
+         {"id":24 , "title":"basketball clothing","link":"#"},
+         {"id":25 , "title":"shop all basketball","link":"#"}
+    ]  },
+    {"id":6, "name":"sale", "link":"#","dropdown":[
+       {"id":1 , "title":"launch calender","link":"#"},
+      {"id":2 , "title":"New Arrivals","link":"#"},
+      {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":4 , "title":"Fall Shop","link":"#"},
+      {"id":5 , "title":"The Classics Club","link":"#"},
+      {"id":6 , "title":"Hyrox","link":"#"},
+      {"id":7 , "title":"Running Shoe Finder","link":"#"},
+      {"id":8 , "title":"Shop All Women's","link":"#"},
+       {"id":9 , "title":"shoes","link":"#"},
+       {"id":10 , "title":"Speedcat","link":"#"},
+       {"id":11 , "title":"Lifestyle","link":"#"},
+       {"id":12 , "title":"Suede","link":"#"},
+       {"id":13 , "title":"White Shoes","link":"#"},
+       {"id":14 , "title":"Platform","link":"#"},
+       {"id":15 , "title":"Ballerinas","link":"#"},
+        {"id":16 , "title":"clothing","link":"#"},
+        {"id":17 , "title":"T-Shirts & Tops","link":"#"},
+        {"id":18 , "title":"Pants","link":"#"},
+        {"id":19 , "title":"Dresses & Skirts","link":"#"},
+        {"id":20 , "title":"Matching Sets","link":"#"},
+        {"id":21 , "title":"Jerseys","link":"#"},
+         {"id":22 , "title":"Accessories","link":"#"},
+         {"id":23 , "title":"Bags & Backpacks","link":"#"},
+         {"id":24 , "title":"Hats & Beanies","link":"#"},
+         {"id":25 , "title":"Sports Equipment","link":"#"}
+    ]  },
+
+    
+    {"id":7, "image":"./images/heart.svg"},
+    {"id":8, "image":"./images/basket.svg"},
+    {"id":9, "image":"./images/person.svg"}
+   ],
+
+   "products":[
+      {"id": 1,"image" : "./images/products1.png" ,"name":"SPEEDCAT", "buttom":"SHOP NOW" },
+      { "id":2 , "image":"./images/products2.png" ,"name":"SUEDE" , "buttom":"SHOP NOW"},
+      { "id":3 , "image":"./images/products3.png" ,"name":"BALLERINA" , "buttom":"SHOP NOW"}
+   ],
+   
+   "pro":[
+
+      {"id":1 , "image":"./images/pro1.png" , "name":"HYROX" ,"buttom":"SHOP NOW"},
+      {"id":2, "image":"./images/pro2.png" , "name":"RUNNING" ,"buttom":"SHOP NOW"},
+      {"id":3, "image":"./images/pro3.png" , "name":"SOCCER" ,"buttom":"SHOP NOW"}
+
+   ],
+
+   "footerdesk":[
+     {"id" : 1, "name":"Contact Us"},
+      {"id" : 2 , "name":"Shipping and Delivery"},
+      {"id" : 3 , "name":"Return Policy"},
+      {"id" : 4 , "name":"Gift Card Balance"},
+      {"id" : 5 , "name":"Service Discount"},
+      {"id" : 6 , "name":"Student Discount"},
+      {"id" : 7, "name":"Transparency in Supply Chain"},
+      {"id" : 8 , "name":"Cookie Settings"},
+
+      {"id" : 9, "name":"FAQ"},
+      {"id" : 10 , "name":"Store Locator"},
+      {"id" : 11 , "name":"Terms & Conditions"},
+      {"id" : 12 , "name":"Privacy Policy"},
+      {"id" : 13 , "name":"Promotion Exclusions "},
+      {"id" : 14 , "name":"Do Not Sell or Share My Information"},
+      {"id" : 15, "name":"Sitemap"},
+
+      {"id" : 16, "name":"Company"},
+      {"id" : 17, "name":"Corporate News"},
+      {"id" : 18 , "name":"Press Center"},
+      {"id" : 19 , "name":"Investors"},
+      {"id" : 20 , "name":"Sustainability"},
+      {"id" : 21 , "name":"Careers"},
+      {"id" : 22, "name":"NYC Flagship Store"},
+      {"id" : 23, "name":"Las Vegas Flagship Store"},
+      
+      {"id" : 24,"name":"Stay up to date" },
+      {"id" : 25, "name":"Sign Up for Email"},
+      {"id" : 26 , "name":"Explore"},
+      
+       {"id" : 27, "image":"./images/youtube.svg"},
+      {"id" : 28, "image":"./images/x.svg"},
+      {"id" : 29 , "image":"./images/pinterest.svg" },
+      {"id" : 30 ,"image":"./images/insta.svg" },
+      {"id" : 31 , "image":"./images/facebook.svg"},
+
+      {"id":32 , "name":"© PUMA North America, Inc."},
+      {"id":33 , "name":"IMPRINT AND LEGAL DATA"},
+      {"id":34 , "name":"Web ID: 567543"}
+     
+    
+   ],
+   "footermob":[
+      {"id":1 , "title":"support","dropdown":[
+         {"id":1,"text":"contact us" , "textdo":"FAQ"},
+         {"id":2,"text":"Shipping and Delivery" , "textdo":"Store Locator"},
+         {"id":3,"text":"Return Policy" , "textdo":"Terms & Conditions"},
+         {"id":4,"text":"Gift Card Balance" , "textdo":"Privacy Policy"},
+         {"id":5,"text":"Service Discount" , "textdo":"Promotion Exclusions"},
+         {"id":6,"text":"Student Discount" , "textdo":"Do Not Sell or Share My Information"},
+         {"id":7,"text":"Transparency in Supply Chain" , "textdo":"Sitemap"},
+         {"id":8,"text":"Cookie Settings" , "textdo":[]}
+      ]},
+      {"id":2 , "title":"about", "dropdown":[
+          {"id":1,"text":"Company", "textdo":[] },
+         {"id":2,"text":"Corporate News", "textdo":[]  },
+         {"id":3,"text":"Press Center" ,"textdo":[]  },
+         {"id":4,"text":"Investors", "textdo":[]  },
+         {"id":5,"text":"Sustainability",  "textdo":[] },
+         {"id":6,"text":"Careers",  "textdo":[]  },
+         {"id":7,"text":"NYC Flagship Store", "textdo":[]  },
+         {"id":8,"text":"Las Vegas Flagship Store", "textdo":[]  }
+
+      ]},
+      {"id":3 , "title":"stay up to date", "dropdown":[
+          {"id":1,"text":"Sign Up for Email" , "textdo":[]}
+      ]},
+      {"id":4 , "title":"explore" ,"dropdown":[] },
+
+        {"id" : 5, "image":"./images/youtube.svg"},
+      {"id" : 6, "image":"./images/x.svg"},
+      {"id" : 7 , "image":"./images/pinterest.svg" },
+      {"id" : 8 ,"image":"./images/insta.svg" },
+      {"id" : 9 , "image":"./images/facebook.svg"}
+
+
+
+
+   ],
+
+   
+   "goodsmob":[
+      {"id": 1,"image" : "./images/products1.png" ,"name":"SPEEDCAT", "buttom":"SHOP NOW" },
+      { "id":2 , "image":"./images/products2.png" ,"name":"SUEDE" , "buttom":"SHOP NOW"},
+      { "id":3 , "image":"./images/products3.png" ,"name":"BALLERINA" , "buttom":"SHOP NOW"}
+   ],
+
+   "headermob":[
+      {"id":1, "dropdown":[
+         {"id":1,"title":"women" , "items":[
+            {"id":1 , "title":"launch calender","link":"#"},
+            {"id":2 , "title":"New Arrivals","link":"#"},
+            {"id":3 , "title":"Best Sellers","link":"#"},
+            {"id":4 , "title":"Fall Shop","link":"#"}
+         ]},
+         {"id":2,"title":"men" , "items":[
+            {"id":1 , "title":"launch calender","link":"#"},
+            {"id":2 , "title":"New Arrivals","link":"#"},
+            {"id":3 , "title":"Best Sellers","link":"#"},
+            {"id":4 , "title":"Fall Shop","link":"#"}
+         ]
+      },
+         {"id":3,"title":"kids", "items":[
+             {"id":3 , "title":"Best Sellers","link":"#"},
+      {"id":1 , "title":"Fall Shop","link":"#"},
+      {"id":2 , "title":"The Classics Club","link":"#"},
+      {"id":3 , "title":"mini me styles","link":"#"},
+      {"id":4 , "title":"paw patrol","link":"#"}
+           
+         ]
+      },
+         {"id":4,"title":"lifestyle","items":[
+          {"id":1 , "title":"The Classics Club","link":"#"},
+      {"id":2 , "title":"styles","link":"#"},
+      {"id":3 , "title":"NYC","link":"#"},
+      {"id":4 , "title":"LAS VEGAS","link":"#"}
+      
+           
+      ]},
+         {"id":5,"title":"sport", "items":[
+               {"id":1 , "title":"The Classics Club","link":"#"},
+      {"id":2 , "title":"styles","link":"#"},
+      {"id":3 , "title":"NYC","link":"#"},
+      {"id":4 , "title":"LAS VEGAS","link":"#"}
+         ]},
+         {"id":6,"title":"sale", "items":[
+               {"id":1 , "title":"The Classics Club","link":"#"},
+      {"id":2 , "title":"styles","link":"#"},
+      {"id":3 , "title":"NYC","link":"#"},
+      {"id":4 , "title":"LAS VEGAS","link":"#"}
+         ]}
+      ]} 
+    
+        
+   ]
+   
+
+  
+
+}
